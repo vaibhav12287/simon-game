@@ -1,5 +1,7 @@
 var colors = ["red","yellow","blue","green"];
 
+//ashish
+
 var randomColor = [];
 
 var UserColor = [];
