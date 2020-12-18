@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+
+/* top section */
+#top{
+    background-color: #011F3F;
+    padding: 3% 15%;
+}
+
+#level-heading {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    color: #FEF2BF;
+    line-height: 2;
+  }
+
+/* Middle section */
+#middle{
+    padding: 5% 15%;
+    background-color: white;
+}
+
+.btn {
+    margin: 25px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+  }
+
+  .red {
+    background-color: red;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+
+  /* Footer section */
+
+  #footer{
+      background-color: #011F3F;
+      color: #FEF2BF;
+      padding: 2% 15%;
+      font-family: 'Press Start 2P', cursive;
+  }
+
+  .icon:hover{
+      color: blueviolet;
+  }
+  /* Animation */
+
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+
+  .pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  
+
